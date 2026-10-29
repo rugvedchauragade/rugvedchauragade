@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rugved.chauragde@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** TUMOR DETECTION MODEL 
+- 🔭 **I’m currently working on:** NASA Battery Degradation & Remaining Useful Life Predictor
 - 🌱 **I’m currently learning:** BASICS OF MACHINE LEARNING AND ROBOT OPERATING SYSTEM (ROS2)
 - 📫 **How to reach me:** rugved.chauragde@gmail.com
 
